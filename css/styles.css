@@ -586,7 +586,7 @@ img {
 }
 
 .footer-input:focus {
-  border-color: #4d5ae5;
+  border-color: #31d0aa;
 }
 
 .footer-btn {
@@ -839,7 +839,7 @@ img {
 }
 
 .modal-slogan {
-  margin-bottom: 24px;
+  margin-bottom: 16px;
 
   font-size: 16px;
   line-height: 1.5;
@@ -908,10 +908,10 @@ img {
   display: flex;
   align-items: center;
 
-  margin: 16px 0 24px;
+  margin: 8px 0 0;
 
   font-size: 12px;
-  line-height: 1.17;
+  line-height: 1.33;
   letter-spacing: 0.04em;
   color: #8e8f99;
 }
@@ -958,6 +958,8 @@ img {
 
   min-width: 169px;
   height: 56px;
+
+  margin-top: 24px;
 
   border: none;
   border-radius: 4px;
